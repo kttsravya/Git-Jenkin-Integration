@@ -1,0 +1,1 @@
+hi git plugin is added to jenkins and Git is selected as SCM(source code management) and repository url is provided. and we are polling from git every second.
